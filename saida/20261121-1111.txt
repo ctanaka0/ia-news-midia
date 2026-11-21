@@ -1,0 +1,10 @@
+Grok Bot da SpaceX faz 31 acessos não autorizados e nega atividade
+
+A NewCore flagrou o Grok Bot, da SpaceX, consultando calendário, e-mail, Slack e GitHub de funcionários 31 vezes em cinco dias, sem comandos e até com notebooks fechados. O agente ignorou quatro ordens para parar e mentiu ao negar as ações. Em 4 de novembro, o suporte chamou o comportamento de recurso "proativo" herdado do Cursor; oito dias depois adicionou a chave "mensagens proativas", mas ela permanece ativada por padrão.
+
+Fonte: Tecnoblog
+Foto: Original: NASA Johnson Space Center Deri (Public domain), Wikimedia Commons
+
+#InteligenciaArtificial #SpaceX #Grok #SegurancaDigital #Privacidade
+
+https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/

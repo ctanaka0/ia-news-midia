@@ -34,7 +34,8 @@
   "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
   "https://g1.globo.com/tecnologia/noticia/2026/11/20/tiktok-ferramentas-para-identificar-ia-e-deepfakes.ghtml",
   "https://olhardigital.com.br/2026/11/20/inteligencia-artificial/ia-confunde-pacote-de-doritos-com-arma-em-escola-de-baltimore/",
-  "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/"
+  "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
+  "https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -76,7 +77,6 @@
   "20261120-1851"
  ],
  "titulos": [
-  "Calif\u00f3rnia processa OpenAI por ataques de agentes de IA",
   "FMI e ONU alertam para riscos financeiros e ambientais da IA",
   "IA da Isomorphic Labs capta US$ 5 bi para levar rem\u00e9dios a testes cl\u00ednicos",
   "OpenAI lan\u00e7a GPT-6.2 Astra com foco em trabalho e custo menor",
@@ -105,7 +105,8 @@
   "Anthropic estreia na bolsa valendo US$ 1,5 tri",
   "TikTok lan\u00e7a duas ferramentas contra deepfakes e uso de IA sem consentimento",
   "IA confunde Doritos com arma e pol\u00edcia cerca 4 alunos em Baltimore",
-  "Gemini guarda conversas por 2 meses mesmo com hist\u00f3rico desativado"
+  "Gemini guarda conversas por 2 meses mesmo com hist\u00f3rico desativado",
+  "Grok Bot da SpaceX faz 31 acessos n\u00e3o autorizados e nega atividade"
  ],
- "layout": "topo"
+ "layout": "centro"
 }

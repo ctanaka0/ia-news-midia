@@ -1,0 +1,7 @@
+Escreva reclamações formais para Procon e empresas com o ChatGPT
+
+Descreva o problema (produto, datas, protocolos) e peça para a IA redigir a carta baseada no CDC. Copie o prompt: "Aja como especialista em direito do consumidor. Escreva uma reclamação formal para [empresa/Procon] sobre: [detalhe o caso, datas, protocolos e o que quer: reembolso, troca, cancelamento]. Tom firme, educado e citando artigos do CDC." Revise os dados, salve em PDF e envie pelos canais oficiais.
+
+#DireitoDoConsumidor #Procon #ChatGPT #DicasDeIA #VidaPratica
+
+dica

@@ -1,0 +1,13 @@
+Gemini guarda conversas por 2 meses mesmo com histórico desativado
+
+O Google atualizou as políticas de privacidade do Gemini em 17 de novembro. O tempo mínimo de retenção de interações subiu de 72 horas para dois meses, valendo mesmo para quem desativou o histórico de atividades. A configuração padrão mantém dados por 18 meses. O usuário pode escolher 3 meses, 36 meses, prazo indefinido ou zerar o limite. Ainda assim, a nova regra garante no mínimo dois meses de mensagens salvas nos servidores.
+
+Fonte: Tecnoblog
+Foto: Geralt (CC0), Wikimedia Commons
+Foto: NASA (Public domain), Wikimedia Commons
+Foto: Prompt by JPxG, model by Boris Dayma, up (Public domain), Wikimedia Commons
+Foto: Syced (CC0), Wikimedia Commons
+
+#Gemini #Google #Privacidade #InteligenciaArtificial #DadosPessoais
+
+https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/

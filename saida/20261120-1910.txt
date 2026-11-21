@@ -1,0 +1,7 @@
+Compare orçamentos de reforma lado a lado com o ChatGPT
+
+Quando chegam três orçamentos de reforma ou conserto, o ChatGPT organiza tudo em uma tabela e mostra diferenças que passam despercebidas. Antes de colar os textos, apague nome, CPF e endereço, e use o pedido: “Compare estes três orçamentos em uma tabela com preço total, prazo, garantia e itens não incluídos, e liste o que falta esclarecer com cada fornecedor: [cole os textos]”. Depois, confira a tabela com os documentos originais, principalmente os itens fora do preço, porque é ali que costuma aparecer o custo extra.
+
+#InteligenciaArtificial #ChatGPT #DicasDeIA #IANoDiaADia #Produtividade
+
+dica

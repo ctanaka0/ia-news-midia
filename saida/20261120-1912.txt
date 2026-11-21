@@ -1,0 +1,7 @@
+Organize gastos para o Imposto de Renda em tabela com ajuda do ChatGPT
+
+Junte os comprovantes do ano numa lista simples (data, descrição e valor) e cole no chat. Depois peça: "Organize esta lista em uma tabela com data, descrição, categoria (saúde, educação ou outros) e valor, e some o total de cada categoria: [cole a lista aqui]". Confira os totais com os comprovantes originais antes de usar na declaração, porque a IA pode errar em valores ou classificar algo no lugar errado.
+
+#InteligenciaArtificial #IA #ImpostoDeRenda #ChatGPT #FinancasPessoais
+
+dica

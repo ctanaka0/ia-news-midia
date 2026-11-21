@@ -1,0 +1,9 @@
+IA coreana lê lábios em silêncio total com precisão recorde
+
+Pesquisadores do KAIST desenvolveram o sistema DLLM-VSR, que decifra palavras apenas pelos movimentos labiais em vídeos sem áudio. A tecnologia atingiu novo patamar de acurácia em testes de leitura labial, abrindo caminho para aplicações em acessibilidade, vigilância e interfaces silenciosas. Ainda em fase experimental, não está disponível ao público.
+
+Fonte: Canaltech
+
+#InteligenciaArtificial #InovacaoTecnologica #Acessibilidade #PesquisaCientifica #CoreiaDoSul
+
+https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-que-le-labios-em-silencio-absoluto-e-bate-recorde-de-precisao/

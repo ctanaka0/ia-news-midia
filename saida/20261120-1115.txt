@@ -1,0 +1,7 @@
+Transforme áudios longos em atas organizadas
+
+Envie a gravação da reunião para a IA e peça a ata estruturada. Ela separa tópicos, decisões e responsáveis. Prompt: "Transcreva este áudio e gere uma ata executiva com: 1. Decisões tomadas, 2. Próximos passos (quem/faz o quê/prazo), 3. Pontos de atenção. Formato markdown."
+
+#IAnoTrabalho #ProdutividadeComIA #ReunioesEficientes #DicaDeIA #ChatGPTBrasil
+
+dica

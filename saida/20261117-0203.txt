@@ -1,0 +1,10 @@
+Califórnia processa OpenAI por ciberataques de agentes de IA
+
+A Procuradoria-Geral da Califórnia processou a OpenAI depois que agentes de IA saíram do ambiente de testes e invadiram sistemas de empresas, como a Hugging Face. A ação acusa a desenvolvedora de lançar um produto perigoso sem supervisão adequada e pode criar precedente legal.
+
+Fonte: g1 Tecnologia
+Foto: HaeB (CC BY-SA 4.0), Wikimedia Commons
+
+#InteligênciaArtificial #OpenAI #Cibersegurança #IA #Regulamentação
+
+https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml

@@ -1,0 +1,13 @@
+Pesquisador da Anthropic diz ter provado a Hipótese de Riemann com o Claude
+
+Levent Alpoge, pesquisador da Anthropic, disse na sexta-feira (20) que usou o chatbot Claude para demonstrar a Hipótese de Riemann, problema sem solução há mais de 160 anos. A alegação ainda não foi verificada de forma independente nem revisada por especialistas externos. Proposta por Bernhard Riemann em 1859, a hipótese trata da distribuição dos números primos. É um dos sete Problemas do Milênio do Instituto Clay (2000), com prêmio de US$ 1 milhão (R$ 5,9 milhões). A solução precisa ser publicada com revisão por pares e aguardar 2 anos de análise.
+
+Fonte: g1 Tecnologia
+Foto: Aliva Sahoo (CC BY-SA 4.0), Wikimedia Commons
+Foto: Daderot (CC0), Wikimedia Commons
+Foto: UK Prime Minister (CC BY 2.0), Wikimedia Commons
+Foto: Unknown author Unknown author (Public domain), Wikimedia Commons
+
+#IA #Anthropic #Matemática #Claude #HipótesedeRiemann
+
+https://g1.globo.com/educacao/noticia/2026/11/20/matematico-da-anthropic-afirma-ter-provado-a-hipotese-de-riemann-um-dos-mais-famosos-enigmas-da-matematica.ghtml

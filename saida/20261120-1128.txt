@@ -1,0 +1,7 @@
+Monte cardápio semanal com lista de compras
+
+Peça à IA um plano alimentar de 7 dias considerando restrições (ex.: sem glúten, low carb) e orçamento máximo. Ela entrega receitas, macros e a lista de compras organizada por setor do mercado. Copie o prompt: "Crie um cardápio semanal para 2 adultos, low carb, sem glúten, orçamento R$ 300. Inclua receitas simples, macros por refeição e lista de compras categorizada por hortifruti, açougue e mercearia." Ajuste porções e compre direto no app.
+
+#IAnodia #ProdutividadePessoal #MealPrep #VidaPratica #DicaDeIA
+
+dica

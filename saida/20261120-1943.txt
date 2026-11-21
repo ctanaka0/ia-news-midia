@@ -1,0 +1,7 @@
+Monte a pauta da assembleia do condomínio com ajuda do ChatGPT
+
+Cole a convocação e a ata da última assembleia (sem nomes nem dados pessoais dos moradores) e peça que a IA organize a pauta com tempo estimado por item e os pontos que exigem votação. Depois, peça uma lista das dúvidas que os moradores provavelmente vão levantar, para você chegar preparado. Pedido de exemplo: "Com base nesta convocação e nesta ata, monte a pauta da assembleia com tempo estimado por item, marque o que precisa de votação e liste as dúvidas que os moradores provavelmente farão." Confira sempre os prazos e quóruns no regimento interno antes de enviar.
+
+#InteligenciaArtificial #IAnoDiaADia #ChatGPT #Condominio #ProdutividadeComIA
+
+dica

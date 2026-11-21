@@ -1,0 +1,9 @@
+IA descobre falha crítica no Java e Oracle corrige brecha
+
+Pesquisadores usaram inteligência artificial para identificar uma vulnerabilidade grave no Java, que permitia invasão remota de sistemas. A Oracle já lançou a correção de emergência para a brecha descoberta pela IA.
+
+Fonte: Tecnoblog
+
+#InteligenciaArtificial #Cibersegurança #Java #Tecnologia #Brasil
+
+https://tecnoblog.net/noticias/ia-ajudou-a-descobrir-falha-critica-no-java/

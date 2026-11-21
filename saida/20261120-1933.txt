@@ -1,0 +1,7 @@
+Entenda sua fatura de energia em linguagem simples com ajuda do Gemini
+
+Cole o texto da sua conta de luz no Gemini, apagando antes CPF e número da instalação, e peça uma explicação item por item. Ele traduz siglas como 'bandeira tarifária' e 'TUSD' e mostra o que mais pesou no valor. Exemplo de pedido: “Explique cada item desta conta de luz em linguagem simples, diga o que mais pesou no valor e sugira 2 formas de reduzir o consumo: [cole o texto]”. Depois, compare com a conta do mês anterior para ver de onde veio a variação.
+
+#InteligenciaArtificial #IA #Gemini #DicasDeIA #FinancasPessoais
+
+dica

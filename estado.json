@@ -35,7 +35,8 @@
   "https://g1.globo.com/tecnologia/noticia/2026/11/20/tiktok-ferramentas-para-identificar-ia-e-deepfakes.ghtml",
   "https://olhardigital.com.br/2026/11/20/inteligencia-artificial/ia-confunde-pacote-de-doritos-com-arma-em-escola-de-baltimore/",
   "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
-  "https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/"
+  "https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/",
+  "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-de-tecnologia-dos-eua-desabam-na-pior-semana-desde-a-crise-da-covid-19.shtml"
  ],
  "offset": 267314418,
  "publicados": [
@@ -78,7 +79,6 @@
   "20261120-1851"
  ],
  "titulos": [
-  "IA da Isomorphic Labs capta US$ 5 bi para levar rem\u00e9dios a testes cl\u00ednicos",
   "OpenAI lan\u00e7a GPT-6.2 Astra com foco em trabalho e custo menor",
   "Microsoft lan\u00e7a modelos de IA pr\u00f3prios para rivalizar com OpenAI",
   "Brasil cria com UIT e UNESCO centro de capacita\u00e7\u00e3o em IA e clima",
@@ -107,7 +107,8 @@
   "IA confunde Doritos com arma e pol\u00edcia cerca 4 alunos em Baltimore",
   "Gemini guarda conversas por 2 meses mesmo com hist\u00f3rico desativado",
   "Grok Bot da SpaceX faz 31 acessos n\u00e3o autorizados e nega atividade",
-  "Escreva reclama\u00e7\u00f5es formais para Procon e empresas com o ChatGPT"
+  "Escreva reclama\u00e7\u00f5es formais para Procon e empresas com o ChatGPT",
+  "IA em queda: a\u00e7\u00f5es de tecnologia t\u00eam pior semana desde a Covid"
  ],
- "layout": "meio"
+ "layout": "faixa"
 }

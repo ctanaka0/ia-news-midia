@@ -1,0 +1,13 @@
+Startup Calif descobre falha crítica no Java com IA; Oracle lança correção urgente
+
+A empresa Calif usou o modelo GPT-6 Cyber da OpenAI (ainda não público) para encontrar a vulnerabilidade 'Java4Shell' nas funções de memória do Java. A falha permite execução remota de comandos no sistema. Java roda em 90% das grandes empresas globais, incluindo Apple, Amazon, bancos, governos e hospitais. Vulnerabilidade anterior no PHP, também achada pela Calif, expôs cerca de 30 milhões de sites por mais de uma década.
+
+Fonte: g1 Tecnologia
+Foto: Davidlohr Bueso (CC BY 2.0), Wikimedia Commons
+Foto: Jonathan Schilling (CC BY-SA 4.0), Wikimedia Commons
+Foto: King of Hearts (CC BY-SA 3.0), Wikimedia Commons
+Foto: Petty Officer 2nd Class Etta Smith (Public domain), Wikimedia Commons
+
+#Java #Cibersegurança #Vulnerabilidade #InteligênciaArtificial #Oracle
+
+https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml

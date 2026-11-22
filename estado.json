@@ -38,7 +38,8 @@
   "https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/",
   "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-de-tecnologia-dos-eua-desabam-na-pior-semana-desde-a-crise-da-covid-19.shtml",
   "https://olhardigital.com.br/2026/11/20/inteligencia-artificial/expansao-da-ia-leva-meta-a-rever-compromisso-climatico-para-2030/",
-  "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml"
+  "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+  "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml"
  ],
  "offset": 267314418,
  "publicados": [
@@ -84,7 +85,6 @@
   "20261122-0829"
  ],
  "titulos": [
-  "Brasil cria com UIT e UNESCO centro de capacita\u00e7\u00e3o em IA e clima",
   "Apple limita uso di\u00e1rio da nova Siri e exige iCloud+ para acesso ampliado",
   "Nvidia suspende envio de chips de IA para a China e Brasil na lista",
   "Serpro lan\u00e7ar\u00e1 f\u00e1brica de agentes de IA no Brasil em 2025",
@@ -113,7 +113,8 @@
   "Escreva reclama\u00e7\u00f5es formais para Procon e empresas com o ChatGPT",
   "IA em queda: a\u00e7\u00f5es de tecnologia t\u00eam pior semana desde a Covid",
   "Meta rev\u00ea meta de carbono zero para 2030 ap\u00f3s emiss\u00f5es subirem 45% com IA",
-  "Jensen Huang renuncia \u00e0 Nvidia avaliada em US$ 3,8 tri"
+  "Jensen Huang renuncia \u00e0 Nvidia avaliada em US$ 3,8 tri",
+  "Startup Calif descobre falha cr\u00edtica no Java com IA; Oracle lan\u00e7a corre\u00e7\u00e3o urgente"
  ],
- "layout": "base"
+ "layout": "topo"
 }

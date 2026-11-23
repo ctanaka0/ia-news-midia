@@ -1,0 +1,10 @@
+Samsung testa detecção de golpes e voz de IA no WhatsApp e Telegram na One UI 9.5
+
+A Samsung desenvolve recurso na One UI 9.5 beta (v18.5.00.154) para identificar golpes, vozes de criminosos e deepfakes em chamadas de 14 apps como WhatsApp e Telegram. Análise roda no aparelho com tecnologia da operadora KT e Instituto Forense sul-coreano. Lançamento sem data, possivelmente 2027, sem confirmação para o Brasil.
+
+Fonte: Canaltech
+Foto: Bairuilong (CC BY-SA 4.0), Wikimedia Commons
+
+#Samsung #OneUI #InteligenciaArtificial #SegurancaDigital #Golpes
+
+https://canaltech.com.br/software/samsung-prepara-recurso-contra-golpes-e-voz-de-ia-em-ligacoes-no-whatsapp-e-telegram/

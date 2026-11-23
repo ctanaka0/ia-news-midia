@@ -1,0 +1,7 @@
+Transforme o áudio de uma reunião em ata com tarefas usando IA
+
+Grave a reunião pelo celular e peça a transcrição (o próprio celular ou um app como o Copilot fazem isso). Depois, cole o texto no ChatGPT, Gemini ou Claude e peça uma ata enxuta. O pedido: "Resuma a transcrição em ata com decisões, responsáveis, prazos e pendências". Revise os nomes e envie ao grupo em 5 minutos.
+
+#InteligênciaArtificial #ProdutividadeNoTrabalho #ChatGPT #ReuniõesEficientes #DicasDeIA
+
+dica

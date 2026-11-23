@@ -1,0 +1,15 @@
+OpenAI propõe limites globais para IA baseados em perplexidade
+
+O cientista-chefe Jakub Pachocki publicou no blog da OpenAI uma proposta para que desenvolvedores adotem limites comuns de capacidade. A métrica sugerida é a perplexidade, que mede a habilidade do modelo de prever o próximo token. Pachocki define perplexidade como a capacidade média de previsão do próximo token; valores menores indicam previsões melhores. Ele sugere que o setor não ultrapasse limites acordados até que monitoramento e segurança atinjam marcos concretos.
+
+Fonte: Folha de S.Paulo
+Foto: FoxTPNL (CC BY 4.0), Wikimedia Commons
+Foto: HaeB (CC BY-SA 4.0), Wikimedia Commons
+Foto: ICPCNews (CC BY 2.0), Wikimedia Commons
+Foto: Jernej Furman from Slovenia (CC BY 2.0), Wikimedia Commons
+Foto: Lapalmauz (CC BY-SA 4.0), Wikimedia Commons
+Foto: TechCrunch (CC BY 2.0), Wikimedia Commons
+
+#OpenAI #InteligenciaArtificial #SegurancaIA #SamAltman #Tecnologia
+
+https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/cientista-da-openai-propoe-limitar-uso-de-ia-no-setor-com-base-na-inteligencia-dos-modelos.shtml

@@ -114,7 +114,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Pesquisador da Anthropic diz ter provado a Hip\u00f3tese de Riemann com o Claude",
   "Anthropic estreia na bolsa valendo US$ 1,5 tri",
   "TikTok lan\u00e7a duas ferramentas contra deepfakes e uso de IA sem consentimento",
   "IA confunde Doritos com arma e pol\u00edcia cerca 4 alunos em Baltimore",
@@ -143,10 +142,11 @@
   "TCU registra ganho de 50% a 60% na produtividade com IA desde 2016",
   "Oregon e Virg\u00ednia processam SpaceX por 1,8 mi de imagens sexualizadas por IA",
   "Canva lan\u00e7a bot\u00e3o para desativar IA generativa",
-  "Governo tem 300 IAs ativas e prepara 2 transacionais com Lula"
+  "Governo tem 300 IAs ativas e prepara 2 transacionais com Lula",
+  "Como resolver problemas de consumo com IA"
  ],
  "layout": "centro",
- "paleta": "azul",
+ "paleta": "ciano",
  "ferramenta": "Copilot",
  "reel_estilo": {
   "layout": "na_foto",

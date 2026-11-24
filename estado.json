@@ -48,7 +48,8 @@
   "https://canaltech.com.br/software/samsung-prepara-recurso-contra-golpes-e-voz-de-ia-em-ligacoes-no-whatsapp-e-telegram/",
   "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/corrida-pela-ia-comeca-a-sufocar-outros-setores-da-economia/",
   "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes.shtml",
-  "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml"
+  "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml",
+  "https://convergenciadigital.com.br/governo/tcu-ia-tera-de-ser-medida-pelo-valor-que-traz-ao-negocio/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -106,7 +107,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Organize gastos para o Imposto de Renda em tabela com ajuda do ChatGPT",
   "Entenda a bula de um rem\u00e9dio em linguagem simples com a ajuda do ChatGPT",
   "Entenda sua fatura de energia em linguagem simples com ajuda do Gemini",
   "Monte a pauta da assembleia do condom\u00ednio com ajuda do ChatGPT",
@@ -135,9 +135,10 @@
   "Como montar card\u00e1pio semanal com IA",
   "24 prompts \u00fateis para Produtividade pessoal",
   "24 recursos escondidos para o Copilot",
-  "A\u00e7\u00f5es da Nvidia disparam 31% com volta de Jensen Huang ao comando"
+  "A\u00e7\u00f5es da Nvidia disparam 31% com volta de Jensen Huang ao comando",
+  "TCU registra ganho de 50% a 60% na produtividade com IA desde 2016"
  ],
- "layout": "meio",
+ "layout": "faixa",
  "paleta": "azul",
  "ferramenta": "Copilot"
 }

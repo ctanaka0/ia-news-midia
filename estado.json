@@ -51,7 +51,8 @@
   "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml",
   "https://convergenciadigital.com.br/governo/tcu-ia-tera-de-ser-medida-pelo-valor-que-traz-ao-negocio/",
   "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/oregon-e-virginia-processam-spacex-por-imagens-sexualizadas-geradas-por-ia.shtml",
-  "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/"
+  "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/",
+  "https://convergenciadigital.com.br/governo/governo-esta-prestes-a-lancar-duas-ia-transacionais-nos-servicos-digitais/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -112,7 +113,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Monte a pauta da assembleia do condom\u00ednio com ajuda do ChatGPT",
   "Pesquisador da Anthropic diz ter provado a Hip\u00f3tese de Riemann com o Claude",
   "Anthropic estreia na bolsa valendo US$ 1,5 tri",
   "TikTok lan\u00e7a duas ferramentas contra deepfakes e uso de IA sem consentimento",
@@ -141,9 +141,14 @@
   "A\u00e7\u00f5es da Nvidia disparam 31% com volta de Jensen Huang ao comando",
   "TCU registra ganho de 50% a 60% na produtividade com IA desde 2016",
   "Oregon e Virg\u00ednia processam SpaceX por 1,8 mi de imagens sexualizadas por IA",
-  "Canva lan\u00e7a bot\u00e3o para desativar IA generativa"
+  "Canva lan\u00e7a bot\u00e3o para desativar IA generativa",
+  "Governo tem 300 IAs ativas e prepara 2 transacionais com Lula"
  ],
- "layout": "topo",
+ "layout": "centro",
  "paleta": "azul",
- "ferramenta": "Copilot"
+ "ferramenta": "Copilot",
+ "reel_estilo": {
+  "layout": "na_foto",
+  "destaque": "#22d3ee"
+ }
 }

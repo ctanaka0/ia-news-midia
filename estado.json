@@ -52,7 +52,8 @@
   "https://convergenciadigital.com.br/governo/tcu-ia-tera-de-ser-medida-pelo-valor-que-traz-ao-negocio/",
   "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/oregon-e-virginia-processam-spacex-por-imagens-sexualizadas-geradas-por-ia.shtml",
   "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/",
-  "https://convergenciadigital.com.br/governo/governo-esta-prestes-a-lancar-duas-ia-transacionais-nos-servicos-digitais/"
+  "https://convergenciadigital.com.br/governo/governo-esta-prestes-a-lancar-duas-ia-transacionais-nos-servicos-digitais/",
+  "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -115,7 +116,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Anthropic estreia na bolsa valendo US$ 1,5 tri",
   "TikTok lan\u00e7a duas ferramentas contra deepfakes e uso de IA sem consentimento",
   "IA confunde Doritos com arma e pol\u00edcia cerca 4 alunos em Baltimore",
   "Gemini guarda conversas por 2 meses mesmo com hist\u00f3rico desativado",
@@ -144,13 +144,14 @@
   "Oregon e Virg\u00ednia processam SpaceX por 1,8 mi de imagens sexualizadas por IA",
   "Canva lan\u00e7a bot\u00e3o para desativar IA generativa",
   "Governo tem 300 IAs ativas e prepara 2 transacionais com Lula",
-  "Como resolver problemas de consumo com IA"
+  "Como resolver problemas de consumo com IA",
+  "Google libera IA da Pesquisa para acessar Drive, Carteira e Gemini"
  ],
- "layout": "centro",
+ "layout": "base",
  "paleta": "ciano",
  "ferramenta": "Copilot",
  "reel_estilo": {
-  "layout": "na_foto",
-  "destaque": "#22d3ee"
+  "layout": "baixo",
+  "destaque": "#f472b6"
  }
 }

@@ -47,7 +47,8 @@
   "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
   "https://canaltech.com.br/software/samsung-prepara-recurso-contra-golpes-e-voz-de-ia-em-ligacoes-no-whatsapp-e-telegram/",
   "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/corrida-pela-ia-comeca-a-sufocar-outros-setores-da-economia/",
-  "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes.shtml"
+  "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes.shtml",
+  "https://g1.globo.com/economia/noticia/2026/11/23/nvidia-huang-volta-nasdaq.ghtml"
  ],
  "offset": 267314418,
  "publicados": [
@@ -104,7 +105,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Compare or\u00e7amentos de reforma lado a lado com o ChatGPT",
   "Organize gastos para o Imposto de Renda em tabela com ajuda do ChatGPT",
   "Entenda a bula de um rem\u00e9dio em linguagem simples com a ajuda do ChatGPT",
   "Entenda sua fatura de energia em linguagem simples com ajuda do Gemini",
@@ -133,9 +133,10 @@
   "Amazon negocia compra da Decart por US$ 7,5 bi",
   "Como montar card\u00e1pio semanal com IA",
   "24 prompts \u00fateis para Produtividade pessoal",
-  "24 recursos escondidos para o Copilot"
+  "24 recursos escondidos para o Copilot",
+  "A\u00e7\u00f5es da Nvidia disparam 31% com volta de Jensen Huang ao comando"
  ],
- "layout": "centro",
+ "layout": "meio",
  "paleta": "azul",
  "ferramenta": "Copilot"
 }

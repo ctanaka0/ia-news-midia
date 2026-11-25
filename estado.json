@@ -55,7 +55,8 @@
   "https://convergenciadigital.com.br/governo/governo-esta-prestes-a-lancar-duas-ia-transacionais-nos-servicos-digitais/",
   "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/",
   "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/black-friday-53-dos-brasileiros-ja-usam-ia-para-comprar-online/",
-  "https://convergenciadigital.com.br/governo/projeto-de-lei-quer-auditar-compras-publicas-com-inteligencia-artificial/"
+  "https://convergenciadigital.com.br/governo/projeto-de-lei-quer-auditar-compras-publicas-com-inteligencia-artificial/",
+  "https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -123,7 +124,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Escreva reclama\u00e7\u00f5es formais para Procon e empresas com o ChatGPT",
   "IA em queda: a\u00e7\u00f5es de tecnologia t\u00eam pior semana desde a Covid",
   "Meta rev\u00ea meta de carbono zero para 2030 ap\u00f3s emiss\u00f5es subirem 45% com IA",
   "Jensen Huang renuncia \u00e0 Nvidia avaliada em US$ 3,8 tri",
@@ -152,9 +152,10 @@
   "24 prompts pr\u00e1ticos para usar o Meta AI",
   "Black Friday: 53% compram com IA; s\u00f3 15% lojas adaptam dados",
   "Atalhos do Copilot para usar todo dia",
-  "C\u00e2mara aprova PL 5792/25 para auditar compras p\u00fablicas com IA"
+  "C\u00e2mara aprova PL 5792/25 para auditar compras p\u00fablicas com IA",
+  "Samsung tem produ\u00e7\u00e3o de mem\u00f3ria esgotada at\u00e9 2029"
  ],
- "layout": "faixa",
+ "layout": "centro",
  "paleta": "ciano",
  "ferramenta": "Copilot",
  "reel_estilo": {

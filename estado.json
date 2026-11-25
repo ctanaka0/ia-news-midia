@@ -53,7 +53,8 @@
   "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/oregon-e-virginia-processam-spacex-por-imagens-sexualizadas-geradas-por-ia.shtml",
   "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/",
   "https://convergenciadigital.com.br/governo/governo-esta-prestes-a-lancar-duas-ia-transacionais-nos-servicos-digitais/",
-  "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/"
+  "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/",
+  "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/black-friday-53-dos-brasileiros-ja-usam-ia-para-comprar-online/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -118,7 +119,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "IA confunde Doritos com arma e pol\u00edcia cerca 4 alunos em Baltimore",
   "Gemini guarda conversas por 2 meses mesmo com hist\u00f3rico desativado",
   "Grok Bot da SpaceX faz 31 acessos n\u00e3o autorizados e nega atividade",
   "Escreva reclama\u00e7\u00f5es formais para Procon e empresas com o ChatGPT",
@@ -147,13 +147,15 @@
   "Governo tem 300 IAs ativas e prepara 2 transacionais com Lula",
   "Como resolver problemas de consumo com IA",
   "Google libera IA da Pesquisa para acessar Drive, Carteira e Gemini",
-  "24 prompts pr\u00e1ticos para usar o Meta AI"
+  "24 prompts pr\u00e1ticos para usar o Meta AI",
+  "Black Friday: 53% compram com IA; s\u00f3 15% lojas adaptam dados"
  ],
- "layout": "base",
+ "layout": "topo",
  "paleta": "ciano",
  "ferramenta": "Meta AI",
  "reel_estilo": {
   "layout": "baixo",
   "destaque": "#f472b6"
- }
+ },
+ "voz_i": 0
 }

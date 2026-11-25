@@ -57,7 +57,8 @@
   "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/black-friday-53-dos-brasileiros-ja-usam-ia-para-comprar-online/",
   "https://convergenciadigital.com.br/governo/projeto-de-lei-quer-auditar-compras-publicas-com-inteligencia-artificial/",
   "https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/",
-  "https://convergenciadigital.com.br/governo/regulamentacao-do-redata-e-pl-do-marco-de-ia-relator-na-camara-cobra-agilidade-e-prioridade-do-governo/"
+  "https://convergenciadigital.com.br/governo/regulamentacao-do-redata-e-pl-do-marco-de-ia-relator-na-camara-cobra-agilidade-e-prioridade-do-governo/",
+  "https://tecnoblog.net/noticias/nova-york-bane-brinquedos-com-chatbots-de-ia/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -128,7 +129,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Jensen Huang renuncia \u00e0 Nvidia avaliada em US$ 3,8 tri",
   "Startup Calif descobre falha cr\u00edtica no Java com IA; Oracle lan\u00e7a corre\u00e7\u00e3o urgente",
   "Trump pro\u00edbe data centers de empresas dos EUA no exterior e amea\u00e7a imposto alto",
   "Compare planos de sa\u00fade ou internet lado a lado com IA",
@@ -157,9 +157,10 @@
   "C\u00e2mara aprova PL 5792/25 para auditar compras p\u00fablicas com IA",
   "Samsung tem produ\u00e7\u00e3o de mem\u00f3ria esgotada at\u00e9 2029",
   "Aguinaldo Ribeiro cobra prioridade do Governo para PL de IA e Redata",
-  "Como virar \u00e1udios em tarefas com IA"
+  "Como virar \u00e1udios em tarefas com IA",
+  "Nova York pro\u00edbe por 5 anos brinquedos com chatbots de IA"
  ],
- "layout": "meio",
+ "layout": "faixa",
  "paleta": "rosa",
  "ferramenta": "Copilot",
  "reel_estilo": {

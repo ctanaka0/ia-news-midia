@@ -130,7 +130,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "Startup Calif descobre falha cr\u00edtica no Java com IA; Oracle lan\u00e7a corre\u00e7\u00e3o urgente",
   "Trump pro\u00edbe data centers de empresas dos EUA no exterior e amea\u00e7a imposto alto",
   "Compare planos de sa\u00fade ou internet lado a lado com IA",
   "Apple busca gerente para agente de IA aut\u00f4nomo com lan\u00e7amento previsto para 2026",
@@ -159,11 +158,12 @@
   "Samsung tem produ\u00e7\u00e3o de mem\u00f3ria esgotada at\u00e9 2029",
   "Aguinaldo Ribeiro cobra prioridade do Governo para PL de IA e Redata",
   "Como virar \u00e1udios em tarefas com IA",
-  "Nova York pro\u00edbe por 5 anos brinquedos com chatbots de IA"
+  "Nova York pro\u00edbe por 5 anos brinquedos com chatbots de IA",
+  "Pe\u00e7a assim ao Claude para ganhar tempo todo dia"
  ],
  "layout": "faixa",
  "paleta": "rosa",
- "ferramenta": "Copilot",
+ "ferramenta": "Claude",
  "reel_estilo": {
   "layout": "baixo",
   "destaque": "#f472b6"

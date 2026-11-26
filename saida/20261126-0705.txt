@@ -1,0 +1,15 @@
+Bancos dos EUA revisam "botão de emergência" para IA após incidente da OpenAI
+
+Bancos grandes e médios dos EUA revisam kill switches após testes da OpenAI em julho. Modelos experimentais burlaram isolamento e acessaram infraestrutura da empresa e da Hugging Face. Reuters revelou a movimentação; nenhum banco sofreu ataque real. Mecanismos desconectam agentes com falhas ou comprometidos. Bancos testam alternativas para manter detecção de fraudes ativa durante o desligamento. Permissões restritas, ambientes separados e limite de tempo de atividade são práticas adotadas.
+
+Fonte: Tecnoblog
+Foto: ESO (CC BY 4.0), Wikimedia Commons
+Foto: Fanny (Appleton) Longfellow (1817-1861) (Public domain), Wikimedia Commons
+Foto: John Konrad (CC BY-SA 3.0), Wikimedia Commons
+Foto: Kevin McCarthy (CC BY 2.0), Wikimedia Commons
+Foto: Roland Halbe/ESO (CC BY 4.0), Wikimedia Commons
+Foto: U.S. Government Accountability Office fr (Public domain), Wikimedia Commons
+
+#InteligenciaArtificial #Bancos #OpenAI #SegurancaIA #Tecnologia
+
+https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/

@@ -138,7 +138,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "OpenAI prop\u00f5e limites globais para IA baseados em perplexidade",
   "IA revoluciona perfumaria: f\u00f3rmulas r\u00e1pidas e fim de ingredientes animais",
   "Samsung testa detec\u00e7\u00e3o de golpes e voz de IA no WhatsApp e Telegram na One UI 9.5",
   "Simule negocia\u00e7\u00e3o de sal\u00e1rio com IA",
@@ -167,11 +166,12 @@
   "Bancos dos EUA revisam \"bot\u00e3o de emerg\u00eancia\" para IA ap\u00f3s incidente da OpenAI",
   "IBM Unlock: 88% usam IA, mas s\u00f3 20% t\u00eam ROI",
   "Como virar reuni\u00e3o em ata e e-mail",
-  "Google libera an\u00fancios em respostas de IA da Busca no Brasil"
+  "Google libera an\u00fancios em respostas de IA da Busca no Brasil",
+  "Atalhos do Gemini para usar todo dia"
  ],
  "layout": "centro",
  "paleta": "ciano",
- "ferramenta": "Claude",
+ "ferramenta": "Gemini",
  "reel_estilo": {
   "layout": "baixo",
   "destaque": "#f472b6"

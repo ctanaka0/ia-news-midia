@@ -61,7 +61,8 @@
   "https://tecnoblog.net/noticias/nova-york-bane-brinquedos-com-chatbots-de-ia/",
   "https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/",
   "https://convergenciadigital.com.br/mercado/inteligencia-artificial-esta-por-toda-a-parte-mas-o-roi-ainda-nao-aconteceu/",
-  "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/"
+  "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/",
+  "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/"
  ],
  "offset": 267314418,
  "publicados": [
@@ -139,7 +140,6 @@
   "20261123-1902"
  ],
  "titulos": [
-  "IA revoluciona perfumaria: f\u00f3rmulas r\u00e1pidas e fim de ingredientes animais",
   "Samsung testa detec\u00e7\u00e3o de golpes e voz de IA no WhatsApp e Telegram na One UI 9.5",
   "Simule negocia\u00e7\u00e3o de sal\u00e1rio com IA",
   "Transforme o \u00e1udio de uma reuni\u00e3o em ata com tarefas usando IA",
@@ -168,9 +168,10 @@
   "IBM Unlock: 88% usam IA, mas s\u00f3 20% t\u00eam ROI",
   "Como virar reuni\u00e3o em ata e e-mail",
   "Google libera an\u00fancios em respostas de IA da Busca no Brasil",
-  "Atalhos do Gemini para usar todo dia"
+  "Atalhos do Gemini para usar todo dia",
+  "Cidade Aruna fecha parceria com Nvidia para 1\u00ba empreendimento AI-Centric da Am\u00e9rica Latina"
  ],
- "layout": "centro",
+ "layout": "faixa",
  "paleta": "ciano",
  "ferramenta": "Gemini",
  "reel_estilo": {

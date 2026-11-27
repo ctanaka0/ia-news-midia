@@ -1,0 +1,10 @@
+OpenAI testa ChatGPT fazer ligações e ler SMS no Android via versão 1.2026.328
+
+O Android Authority encontrou no código da versão 1.2026.328 do app permissões para ligações, SMS, contatos e controle de mídia. Hoje o ChatGPT é assistente padrão, mas limitado a voz e texto, enquanto o Gemini tem acesso profundo. A expansão permite agentes como o Dots agirem em segundo plano, mas levanta alertas de privacidade com leitura de tela.
+
+Fonte: Tecnoblog
+Foto: Wikideas1 (CC0), Wikimedia Commons
+
+#OpenAI #ChatGPT #Android #InteligenciaArtificial #Tecnologia
+
+https://tecnoblog.net/noticias/chatgpt-quer-assumir-ligacoes-e-outras-funcoes-basicas-no-android/
